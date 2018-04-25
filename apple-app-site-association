@@ -5,6 +5,8 @@
             {
                 "appID": "6X5VJGHTTH.SmashingTeam.AUTODOC",
                 "paths": [
+                    "NOT /info",
+                    "NOT /basket",
 		    "*"
                 ]
             }
